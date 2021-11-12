@@ -1,3 +1,8 @@
+---
+title: "Make a Website with Only Markdown"
+permalink: /
+layout: default
+---
 # Cute pepes
 ![](apu/addicted.jpg)
 ![](apu/adventure.jpg)
