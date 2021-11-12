@@ -1,7 +1,7 @@
 ---
-title: "Henlo fren"
-permalink: /
-layout: default
+title: "Henlo fren
+permalink: 
+layout: default 
 ---
 # Cute pepes
 ![](apu/addicted.jpg)
@@ -12,6 +12,7 @@ layout: default
 ![](apu/blush.jpg)
 ![](apu/cars.jpg)
 ![](apu/chicken.png)
+![](apu/_config.yml)
 ![](apu/cozy.jpeg)
 ![](apu/darkness.jpg)
 ![](apu/depressed.png)
