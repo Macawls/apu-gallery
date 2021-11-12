@@ -3,7 +3,6 @@ title: "Henlo fren"
 permalink: 
 layout: default 
 ---
-## images
 ![](apu/addicted.jpg)
 ![](apu/adventure.jpg)
 ![](apu/apu-and-boomer.png)

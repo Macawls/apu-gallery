@@ -5,8 +5,6 @@ ls apu/ > index.md
 # add image preview command thing for markdown in prefix and suffix
 sed -i -e 's/^/![](apu\//' index.md
 sed -i 's/$/\)/' index.md
-# page heading 
-sed -i '1 i\## images' index.md
 
 #github pages
 sed -i '1 s/^/---\n/' index.md 
