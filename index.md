@@ -7,6 +7,7 @@ layout: default
 ![](apu/3d.png)
 ![](apu/absolutelycursed.jpg)
 ![](apu/adventure.jpg)
+![](apu/alien.jpg)
 ![](apu/alligator.jpg)
 ![](apu/animals.png)
 ![](apu/animegf.jpeg)
