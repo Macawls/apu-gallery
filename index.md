@@ -181,6 +181,7 @@ layout: default
 ![](apu/smoking.png)
 ![](apu/snowball.png)
 ![](apu/snowtimewithfren.jpg)
+![](apu/soviet.png)
 ![](apu/spaghetti.jpg)
 ![](apu/spain.png)
 ![](apu/squint.png)
